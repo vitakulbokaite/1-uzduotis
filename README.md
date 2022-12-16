@@ -20,3 +20,4 @@ Naudojant class:
 | **Iš viso** | **0.0260312 s** | **0.2013626 s** | **1.7513172 s** | **17.145535 s** |
 
 * Realizuota *Rule of three* ir palyginimo operatoriai
+* Dokumentacija naudojant *Doxygen*
